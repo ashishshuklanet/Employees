@@ -1,0 +1,75 @@
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Employees.json
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Employees.exe.config
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Employees.exe
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Employees.pdb
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\View\MainView.baml
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\View\MainView.g.cs
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees_MarkupCompile.cache
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees_MarkupCompile.lref
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.g.resources
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.csproj.CopyComplete
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.exe
+C:\Users\micky\Documents\POCs\Veifying Test\WpfApp1\WpfApp1\obj\Debug\Employees.pdb
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Employees.json
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Employees.exe.config
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Employees.exe
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Employees.pdb
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.csprojAssemblyReference.cache
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\View\MainView.g.cs
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\App.g.cs
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees_MarkupCompile.cache
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees_MarkupCompile.lref
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\View\MainView.baml
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.g.resources
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.csproj.CopyComplete
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.exe
+C:\Users\micky\Documents\POCs\Employee Wpf App\EmployeeApp\WpfApp1\obj\Debug\Employees.pdb

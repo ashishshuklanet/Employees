@@ -1,0 +1,53 @@
+﻿<Window x:Class="Employees.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Employees"
+        xmlns:vm="clr-namespace:Employees.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <vm:EmployeesViewModel/>
+    </Window.DataContext>
+    <Grid Margin="5 20 30 40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="8*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="0" Grid.Column="0" Command="{Binding LoadCommand}" Content="Load Data" Margin="5,5"/>
+        <DataGrid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" ItemsSource="{Binding Employees,Mode=TwoWay}"  AutoGenerateColumns="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn  Binding="{Binding Name}" Header="Employee Name" Width="3*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsSalaryGreaterThanBaseSalary}" Value="True">
+                                    <Setter Property="Background" Value="Green"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding IsSalaryGreaterThanBaseSalary}" Value="False">
+                                    <Setter Property="Background" Value="Red"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding IsBaseDepartment}" Value="True">
+                                    <Setter Property="Background" Value="Blue"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Id}" Header="Employee id" Width="2*"/>
+                <DataGridTextColumn Binding="{Binding Department}" Header="Department" Width="3*" x:Name="Department"/>
+                <DataGridTextColumn Header="Salary" Binding="{Binding Salary}" Width="*">
+
+                </DataGridTextColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
