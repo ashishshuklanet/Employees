@@ -1,0 +1,21 @@
+Create a WPF app using MVVM pattern to show employee data in a grid control. Grid needs to show below columns. Use attached json for sample data. Write unit tests for your classes.
+
+ 
+
+1.       Employee id
+
+2.       Employee name
+
+3.       Department
+
+4.       Salary
+
+ 
+
+Change cell color for employee name if below criteria are met
+
+If employee salary is greater than 60,000 then Green.
+If employee salary is less than 60,000 then Red.
+If employee department is HR then Blue.
+  
+
